@@ -11,10 +11,26 @@ Duke University
 
 [generalroboticslab.com/PolicyStitching](http://generalroboticslab.com/PolicyStitching/)
 
+### [Project Website](http://generalroboticslab.com/PolicyStitching/) | [Video](https://youtu.be/8HSqDUMNpo4) | [Paper](https://openreview.net/pdf?id=2qKBwyLnln)
+
 
 ## Overview
 This repo contains the implementation for paper *Policy Stitching: Learning Transferable Robot Policies*.
+
 ![ps_teaser](figures/teaser.jpg)
+
+## Citation
+
+If you find our paper or codebase helpful, please consider citing:
+
+```
+@inproceedings{jian2023policy,
+  title={Policy Stitching: Learning Transferable Robot Policies},
+  author={Jian, Pingcheng and Lee, Easop and Bell, Zachary and Zavlanos, Michael M and Chen, Boyuan},
+  booktitle={7th Annual Conference on Robot Learning},
+  year={2023}
+}
+```
 
 ## Content
 
